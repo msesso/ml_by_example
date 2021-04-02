@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/home/sesso/anaconda3/envs/mlexample_env/bin/python",
+
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "jupyter.jupyterServerType": "local"
+}
